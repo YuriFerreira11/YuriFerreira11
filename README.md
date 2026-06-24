@@ -1,6 +1,5 @@
-# 💫 About Me:
-Você estava certo em destacar a UFOP! 
-Sou estudante de Sistemas de Informação pela **Universidade Federal de Ouro Preto (UFOP)**, focado e apaixonado pela área de **Dados e Inteligência Artificial**. Atualmente, busco aplicar lógica de programação e algoritmos inteligentes para extrair insights e resolver problemas complexos através dos dados.
+# 💫 About 
+**Universidade Federal de Ouro Preto (UFOP)**, focado e apaixonado pela área de **Dados e Inteligência Artificial**. Atualmente, busco aplicar lógica de programação e algoritmos inteligentes para extrair insights e resolver problemas complexos através dos dados.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-romao-5439b9225/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yuriafr11) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zDXK62EJ) 
